@@ -1,72 +1,65 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"><br>
-[![](./src/header_.png)](#)
-<h1><b>Hi there, I'm </b><a href="https://github.com/AmanDevelops">Pavan teja kumar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About Me***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/PAVANT009">Pavan Teja</a></h1>
+<h3 align="center">🚀 Just a beginner, breaking and building stuff in tech!</h3>
 
-I’m a **Computer Science student**, first year—currently debugging my life choices along with my code, learning to write programs that are as confusing as I am. While I’m far from mastering development, I’m dipping my toes into both front-end and back-end (or as I call it, “the pretty side” and “the mystery side”).
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=1st+Year+Computer+Science+Student;Learning+JavaScript+and+C%2B%2B;Trying+to+make+things+look+cool+in+code" alt="Typing SVG" />
+</p>
 
-- 📚 I’m currently learning ...
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
-	- How not to break everything when adding a semicolon.
-	- And, you know, actual programming: **Python and JavaScript**.</b>
+### 🧠 About Me
+- 🎓 I'm currently a **Computer Science student (1st year)**
+- 💻 Exploring the world of development — both **frontend** and **backend**
+- 📚 Currently learning: `JavaScript`, `C++`, and `React`
+- 😄 Fun fact: I break things just to figure out how they work
 
+---
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 🛠️ Skills
+#### Languages:
+[![Languages](https://skillicons.dev/icons?i=js,cpp,python)](https://github.com/PAVANT009)
 
+#### Frontend:
+[![Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind)](https://github.com/PAVANT009)
 
-###### Languages & Syntax:
-[![Languages](https://skillicons.dev/icons?i=python,c,javascript)](https://github.com/AmanDevelops)
+#### Backend:
+[![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://github.com/PAVANT009)
 
+#### Tools & Platforms:
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,vercel)](https://github.com/PAVANT009)
 
-<img align="right" width=310px alt="Unicorn" src="https://media1.tenor.com/m/tafdg5EZMXYAAAAd/greys-anatomy-atticus-lincoln.gif"/>
+---
 
-###### Frontend Development:
-[![Languages](https://skillicons.dev/icons?i=html,css,bootstrap)](https://github.com/AmanDevelops)
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PAVANT009&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAVANT009&layout=compact&theme=tokyonight" height="165">
+</p>
 
-###### Backend & Frameworks:
-[![Languages](https://skillicons.dev/icons?i=django,flask)](https://github.com/AmanDevelops)
+---
 
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PAVANT009&theme=tokyonight"/>
+</p>
 
-###### Deployment & Cloud Services:
-[![Languages](https://skillicons.dev/icons?i=firebase,aws,cloudflare,gcp)](https://github.com/AmanDevelops)
+---
 
-###### Database Management:
-[![Languages](https://skillicons.dev/icons?i=mysql,sqlite)](https://github.com/AmanDevelops)
-
-###### Development Tools:
-[![Languages](https://skillicons.dev/icons?i=git,github,bitbucket,gitlab,ubuntu)](https://github.com/AmanDevelops)
-
-###### Development Environments:
-[![Languages](https://skillicons.dev/icons?i=pycharm,vscode,vscodium)](https://github.com/AmanDevelops)
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<table>
-    <tr>
-        <td align="center"><a href="https://github.com/AmanDevelops#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=AmanDevelops&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/AmanDevelops#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=AmanDevelops&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/AmanDevelops#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanDevelops&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/AmanDevelops#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanDevelops&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-	<td>
-	<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67a8f4adf863343482129fb3?variant=dark" alt="roadmap.sh"/></a></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/AmanDevelops#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanDevelops&theme=default"/></a><a href="https://github.com/AmanDevelops#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanDevelops&theme=tokyonight"/></a></td>
-    </tr>
-</table>
+### 🐍 Contribution Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanDevelops/AmanDevelops/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanDevelops/AmanDevelops/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AmanDevelops/AmanDevelops/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PAVANT009/PAVANT009/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PAVANT009/PAVANT009/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PAVANT009/PAVANT009/output/github-contribution-grid-snake.svg">
 </picture>
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
+
+---
+
+<div align="center">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/AAL1X/count.svg">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/PAVANT009/count.svg">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
-<br>
 
-<br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
