@@ -10,7 +10,7 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
 ### 🧠 About Me
-- 🎓 I'm currently a **Computer Science student (1st year)**
+- 🎓 I'm currently a **Computer Science student (3rd year)**
 - 💻 Exploring the world of development — both **frontend** and **backend**
 - 📚 Currently learning: `JavaScript`, `C++`, and `React`
 - 😄 Fun fact: I break things just to figure out how they work
