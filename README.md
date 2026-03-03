@@ -1,60 +1,95 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/PAVANT009">Pavan Teja</a></h1>
-<h3 align="center">🚀 Just a beginner, breaking and building stuff in tech!</h3>
+<h1 align="center">Hi 👋, I'm Pavan Teja</h1>
+<h3 align="center">Full Stack Developer • AI Explorer • CSE Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=3rd+Year+Computer+Science+Student;Learning+JavaScript+and+C%2B%2B;Trying+to+make+things+look+cool+in+code" alt="Typing SVG" />
+  <a href="https://thispavan.dev"><strong>🌐 Portfolio</strong></a> •
+  <a href="https://github.com/PAVANT009">GitHub</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
-### 🧠 About Me
-- 🎓 I'm currently a **Computer Science student (3rd year)**
-- 💻 Exploring the world of development — both **frontend** and **backend**
-- 📚 Currently learning: `JavaScript`, `C++`, and `React`
-- 😄 Fun fact: I break things just to figure out how they work
-
----
-
-### 🛠️ Skills
-#### Languages:
-[![Languages](https://skillicons.dev/icons?i=js,cpp,python)](https://github.com/PAVANT009)
-
-#### Frontend:
-[![Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind)](https://github.com/PAVANT009)
-
-#### Backend:
-[![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://github.com/PAVANT009)
-
-#### Tools & Platforms:
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,vercel)](https://github.com/PAVANT009)
-
----
-
-### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PAVANT009&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAVANT009&layout=compact&theme=tokyonight" height="165">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Apps;Exploring+AI+and+Machine+Learning;React+%7C+Node+%7C+Next.js+%7C+Python;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+## 🧠 About Me
+
+🎓 3rd Year Computer Science Student  
+🚀 Building scalable web apps & integrating AI  
+🧩 Interested in Full Stack Engineering & Applied AI  
+💡 I love turning ideas into real, deployed products  
+
+---
+
+## 🛠 Tech Stack
+
+### 🚀 Languages
+![Languages](https://skillicons.dev/icons?i=js,ts,cpp,python)
+
+### 🎨 Frontend
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind)
+
+### ⚙ Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi)
+
+### ☁ Deployment & Tools
+![Tools](https://skillicons.dev/icons?i=git,github,vercel,cloudflare,mongodb)
+
+---
+
+## 🤖 Currently Exploring
+
+- AI integrations in web apps
+- OpenAI API & LLM applications
+- Cloud deployment strategies
+- System design fundamentals
+
+---
+
+## 📌 Featured Projects
+
+🚀 **AI-Powered Web Application**  
+> Modern full-stack app integrating AI for real-world use cases.
+
+🌐 **Personal Portfolio – thispavan.dev**  
+> Built with Next.js, optimized for SEO, deployed with CI/CD.
+
+📊 **Full Stack Dashboard App**  
+> Authentication, database integration, and production deployment.
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PAVANT009&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAVANT009&layout=compact&theme=tokyonight" height="170">
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PAVANT009&theme=tokyonight"/>
 </p>
 
 ---
 
+## 🎯 2026 Goals
 
+- 🚀 Ship 5 production-ready projects
+- 🤖 Build & deploy AI SaaS
+- 🏆 Secure a high-impact internship
+- 🌍 Grow thispavan.dev into a tech brand
 
 ---
 
 <div align="center">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/PAVANT009/count.svg">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+  <img alt="visitors counter" src="https://profile-counter.glitch.me/PAVANT009/count.svg">
 </div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
